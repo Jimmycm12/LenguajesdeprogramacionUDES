@@ -1,2 +1,3 @@
 This is the new change
-Clase 2 semana 13.
+Armamos el conflicto right now
+clase 2 semana 13
